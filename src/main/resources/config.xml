@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <portNumber>8632</portNumber>
+    <playersInRoom>2</playersInRoom>
+    <timeout>20</timeout>
+</config>
